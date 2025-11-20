@@ -95,7 +95,7 @@ export function Hero() {
 
           <div className="flex gap-6 justify-center pt-8">
             <a 
-              href="https://linkedin.com/in/abdulrahman-reda-ba" 
+              href="https://www.linkedin.com/in/abdulrahman-abuzaid-28609b2a2/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-text-secondary hover:text-accent-cyan transition-all hover:scale-125 p-3 rounded-full border border-transparent"
@@ -103,7 +103,7 @@ export function Hero() {
               <Linkedin size={32} />
             </a>
             <a 
-              href="https://abdoreda.github.io/testprotofolio/" 
+              href="https://github.com/AbdoReda578" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-text-secondary hover:text-accent-cyan transition-all hover:scale-125 p-3 rounded-full border border-transparent"
