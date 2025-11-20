@@ -92,12 +92,12 @@ export function Contact() {
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      link: 'https://linkedin.com/in/abdulrahman-reda-ba'
+      link: 'https://www.linkedin.com/in/abdulrahman-abuzaid-28609b2a2/'
     },
     {
       icon: Github,
       label: 'GitHub',
-      link: 'https://abdoreda.github.io/testprotofolio/'
+      link: 'https://github.com/AbdoReda578'
     }
   ]
 
