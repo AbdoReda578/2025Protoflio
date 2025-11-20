@@ -108,5 +108,5 @@ This project can be deployed to:
 ## 🤝 Contact
 
 - **Email**: abdoredagtr@gmail.com
-- **LinkedIn**: [linkedin.com/in/abdulrahman-reda-ba](https://linkedin.com/in/abdulrahman-reda-ba)
+- **LinkedIn**: [(https://linkedin.com/in/abdulrahman-reda-ba](https://www.linkedin.com/in/abdulrahman-abuzaid-28609b2a2/))]
 - **GitHub**: [abdoreda.github.io/testprotofolio](https://abdoreda.github.io/testprotofolio/)
